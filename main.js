@@ -393,7 +393,16 @@ let contributers=[
         "github":"https://github.com/LumaLiana",
         "linkedin":"https://www.linkedin.com/in/luma-bueno-556531157/",
         "instagram":"https://instagram.com/luma_liana"
-    }
+    },
+    {
+	    "name":"Sree",
+	    "college":"LUMI",
+       	    "image":"",
+            "github":"https://github.com/Shager27",
+           "linkedin":"",
+           "instagram":""
+	    
+		
  ];
 
 
